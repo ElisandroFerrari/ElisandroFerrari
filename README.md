@@ -37,14 +37,11 @@
 ###  Vamos conversar?
 
 <div align="center">
-
   <br />
-
-
-  <a href="https://wa.me/+5551998807209" target="_blank">
+  <a href="https://wa.me/5551998807209" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="mailto:elisandroferrari10@gmail.com" target="_blank">
+  <a href="mailto:elisandroferrari10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
