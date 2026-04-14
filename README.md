@@ -1,18 +1,18 @@
-# Olá, eu sou o Elisandro Ferrari! 👋
+# Olá, eu sou o Elisandro Ferrari! 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20excelente%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs" alt="Steve Jobs Quote" />
 </div>
 
-### 🚀 Sobre Mim
-- 🎓 Estudante Fullstack no **DevClub**.
-- 🌙 Atualmente a conciliar os estudos com o trabalho no período noturno.
-- 👨‍💻 Focado em aprender **Html, Css, JavaScript, Node.js e React**.
-- 🛠️ Adoro restauraçoes de hardware e modificação de jogos antigos.
+###  Sobre Mim
+-  Estudante Fullstack no **DevClub**.
+-  Atualmente a conciliar os estudos com o trabalho no período noturno.
+-  Focado em aprender **Html, Css, JavaScript, Node.js e React**.
+-  Adoro restauraçoes de hardware e modificação de jogos antigos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElisandroFerrari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 🤝 Vamos conversar?
+###  Vamos conversar?
 
 <div align="center">
   <a href="https://wa.me/+5551998807209" target="_blank">
@@ -46,8 +46,3 @@
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <p>Desenvolvido com 💚 por <strong><EFcode />©™</strong></p>
-</div>
