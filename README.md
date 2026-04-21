@@ -1,3 +1,6 @@
+<img width="1140" height="288" alt="imagem de codigos" src="https://github.com/user-attachments/assets/5268f490-4b6b-47db-96a2-6871a2f06fb5" />
+
+
 # Olá, eu sou o Elisandro Ferrari! 
 
 <div align="center">
