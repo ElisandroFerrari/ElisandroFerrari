@@ -1,4 +1,4 @@
-<img width="1140" height="288" alt="imagem de codigos" src="https://github.com/user-attachments/assets/5268f490-4b6b-47db-96a2-6871a2f06fb5" />
+<img width="1368" height="768" alt="Gemini_Generated_Image_h3a9bnh3a9bnh3a9" src="https://github.com/user-attachments/assets/2ac2789b-cd98-4045-8b10-82f3b9d8074a" />
 
 
 # Olá, eu sou o Elisandro Ferrari! 
