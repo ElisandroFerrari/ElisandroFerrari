@@ -1,8 +1,8 @@
-<img width="720" height="365" alt="logo" src="https://github.com/user-attachments/assets/7fdc94a0-0278-4f35-82a6-0bc784a3072e" />
-
-
 # Olá, eu sou o Elisandro Ferrari! 
 
+<img width="920" height="365" alt="logo" src="https://github.com/user-attachments/assets/7fdc94a0-0278-4f35-82a6-0bc784a3072e" />
+<br>
+<br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20excelente%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs" alt="Steve Jobs Quote" />
 </div>
