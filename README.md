@@ -1,6 +1,7 @@
 # Olá, eu sou o Elisandro Ferrari! 
 
-<img width="920" height="365" alt="logo" src="https://github.com/user-attachments/assets/7fdc94a0-0278-4f35-82a6-0bc784a3072e" />
+<img width="920" height="365" alt="pf" src="https://github.com/user-attachments/assets/61d72996-cf71-48ba-b2cc-31fcbc5d7aab" />
+
 <br>
 <br>
 <div align="center">
