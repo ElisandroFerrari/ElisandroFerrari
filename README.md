@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://portifolio-efcode.netlify.app/" target="_blank">
+  <a href="https://portifolio-efcode.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-0b0f19?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 
